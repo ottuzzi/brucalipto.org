@@ -1,3 +1,5 @@
+This is [Brucalipto.org](http://www.brucalipto.org) source repository based on Octopress.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

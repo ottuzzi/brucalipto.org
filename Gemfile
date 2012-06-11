@@ -16,3 +16,5 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.3.2'
+gem 'nokogiri', '~> 1.5.3'
+
