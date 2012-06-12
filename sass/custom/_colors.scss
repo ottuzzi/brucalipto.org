@@ -2,17 +2,32 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//$header-bg: #263347;
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
+$page-bg: #BCC9DC;
+$header-bg: darken(#526f9a, 10);
+$subtitle-color: lighten($header-bg, 58);
+$nav-bg: saturate(#526f9a, 10);
+$nav-color: desaturate(#eceff5, 8);
+$nav-color-visited: desaturate(#eceff5, 8);
+$nav-color-hover: darken(#eceff5, 8);
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
-//$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+
+
+$footer-bg: #ccc !default;
+$footer-bg-front: image-url('noise.png');
+$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+
+//How links appear overall
+$link-color: saturate(#526f9a, 10);
+$link-color-hover: darken(saturate(#526f9a, 10), 9);
+$link-color-visited: $link-color;
+$link-color-active: $link-color;
+
+$sidebar-bg: desaturate(#eceff5, 8);
+$sidebar-link-color: $link-color !default;
+$sidebar-link-color-hover: $link-color-hover !default;
+$sidebar-link-color-visited: $link-color-visited !default;
+$sidebar-link-color-active: $link-color-active !default;
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */
