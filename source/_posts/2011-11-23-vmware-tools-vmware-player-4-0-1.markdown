@@ -5,6 +5,8 @@ slug: vmware-tools-vmware-player-4-0-1
 status: publish
 title: VMware Tools for VMware Player 4.0.1
 wordpress_id: '236'
+description: "How to download VMware Tools for VMware Player 4.0.1"
+keywords: "VMware, VMware Tools, VMware Player"
 categories:
 - VMware
 tags:
