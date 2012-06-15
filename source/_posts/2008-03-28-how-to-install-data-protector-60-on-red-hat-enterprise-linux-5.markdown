@@ -9,6 +9,7 @@ categories:
 - Linux
 tags:
 - RHEL5
+- CentOS
 - Tutorial
 ---
 
