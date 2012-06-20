@@ -3,10 +3,11 @@ date: '2009-09-02 16:19:38'
 layout: post
 slug: windows-port-forwarding
 status: publish
+comments: true
 title: Windows port forwarding
 wordpress_id: '197'
 categories:
-- Windows
+- windows
 tags:
 - Tutorial
 ---

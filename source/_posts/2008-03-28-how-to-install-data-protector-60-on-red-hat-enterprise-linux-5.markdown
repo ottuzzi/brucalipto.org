@@ -3,10 +3,11 @@ date: '2008-03-28 14:38:57'
 layout: post
 slug: how-to-install-data-protector-60-on-red-hat-enterprise-linux-5
 status: publish
+comments: true
 title: How to install Data Protector 6.0 on Red Hat Enterprise Linux 5
 wordpress_id: '64'
 categories:
-- Linux
+- linux
 tags:
 - RHEL5
 - CentOS

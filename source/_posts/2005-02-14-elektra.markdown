@@ -3,10 +3,11 @@ date: '2005-02-14 09:09:01'
 layout: post
 slug: elektra
 status: publish
+comments: true
 title: Elektra
 wordpress_id: '18'
 categories:
-- Unclassified
+- unclassified
 ---
 
                         Ecco qui una nuova recensione di film che ho ricevuto via                         posta elettronica. Buona lettura!

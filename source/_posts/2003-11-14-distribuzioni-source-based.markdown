@@ -3,10 +3,11 @@ date: '2003-11-14 11:52:10'
 layout: post
 slug: distribuzioni-source-based
 status: publish
+comments: true
 title: Distribuzioni source-based
 wordpress_id: '3'
 categories:
-- Linux
+- linux
 tags:
 - Gentoo
 - LFS

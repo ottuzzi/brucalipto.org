@@ -3,10 +3,11 @@ date: '2004-05-12 18:19:51'
 layout: post
 slug: oscurantismo
 status: publish
+comments: true
 title: Oscurantismo?
 wordpress_id: '8'
 categories:
-- Unclassified
+- unclassified
 tags:
 - P2P
 ---

@@ -3,10 +3,11 @@ date: '2003-11-14 13:44:02'
 layout: post
 slug: il-firewall-per-cellulare
 status: publish
+comments: true
 title: Il firewall per cellulare
 wordpress_id: '5'
 categories:
-- Unclassified
+- unclassified
 tags:
 - Cellulare
 - firewall

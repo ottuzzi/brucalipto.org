@@ -3,10 +3,11 @@ date: '2005-08-01 12:18:58'
 layout: post
 slug: il-collezionista-dossa
 status: publish
+comments: true
 title: Il collezionista d'ossa
 wordpress_id: '23'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

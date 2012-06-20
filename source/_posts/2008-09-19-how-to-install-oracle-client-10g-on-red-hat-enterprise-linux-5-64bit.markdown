@@ -3,10 +3,11 @@ date: '2008-09-19 10:08:35'
 layout: post
 slug: how-to-install-oracle-client-10g-on-red-hat-enterprise-linux-5-64bit
 status: publish
+comments: true
 title: How to install Oracle Client 10g on Red Hat Enterprise Linux 5 64bit
 wordpress_id: '93'
 categories:
-- Linux
+- linux
 tags:
 - RHEL5
 - CentOS

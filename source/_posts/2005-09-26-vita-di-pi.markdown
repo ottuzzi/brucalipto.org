@@ -3,10 +3,11 @@ date: '2005-09-26 12:22:13'
 layout: post
 slug: vita-di-pi
 status: publish
+comments: true
 title: Vita di Pi
 wordpress_id: '25'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

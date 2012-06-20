@@ -3,10 +3,11 @@ date: '2008-05-02 11:53:00'
 layout: post
 slug: how-to-install-data-protector-60-on-ubuntu-linux-704
 status: publish
+comments: true
 title: How to install Data Protector 6.0 on Ubuntu Linux 7.04
 wordpress_id: '66'
 categories:
-- Linux
+- linux
 tags:
 - Tutorial
 - Ubuntu

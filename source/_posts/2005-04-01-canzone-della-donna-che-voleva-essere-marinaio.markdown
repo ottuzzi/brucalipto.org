@@ -3,10 +3,11 @@ date: '2005-04-01 10:14:33'
 layout: post
 slug: canzone-della-donna-che-voleva-essere-marinaio
 status: publish
+comments: true
 title: Canzone della donna che voleva essere marinaio
 wordpress_id: '20'
 categories:
-- Cultura
+- cultura
 ---
 
         Ecco qui una bellissima poesia tratta da "Niente di vero tranne gli         occhi" di Giorgio Faletti.

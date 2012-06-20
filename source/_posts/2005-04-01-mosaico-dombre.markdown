@@ -3,10 +3,11 @@ date: '2005-04-01 10:15:34'
 layout: post
 slug: mosaico-dombre
 status: publish
+comments: true
 title: Mosaico d'ombre
 wordpress_id: '21'
 categories:
-- Cultura
+- cultura
 ---
 
                         Ecco qui una brevissima recensione del libro "Mosaico d'ombre" di                         Tom Harper.

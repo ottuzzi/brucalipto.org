@@ -3,10 +3,11 @@ date: '2008-02-27 09:34:17'
 layout: post
 slug: guida-dinstallazione-di-un-server-ubuntu-804-hardy-heron
 status: publish
+comments: true
 title: Guida d'installazione di un server Ubuntu 8.04 Hardy Heron
 wordpress_id: '42'
 categories:
-- Linux
+- linux
 tags:
 - Hardy Heron
 - Ubuntu

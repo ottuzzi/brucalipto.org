@@ -3,10 +3,11 @@ date: '2009-01-26 17:03:07'
 layout: post
 slug: how-to-install-oracle-client-10g-on-solaris10
 status: publish
+comments: true
 title: How to install Oracle Client 10g on Solaris10
 wordpress_id: '164'
 categories:
-- Solaris
+- solaris
 tags:
 - Tutorial
 ---

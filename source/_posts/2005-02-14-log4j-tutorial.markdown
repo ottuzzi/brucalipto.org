@@ -3,10 +3,11 @@ date: '2005-02-14 09:12:54'
 layout: post
 slug: log4j-tutorial
 status: publish
+comments: true
 title: Log4j tutorial
 wordpress_id: '19'
 categories:
-- Java
+- java
 tags:
 - Tutorial
 ---

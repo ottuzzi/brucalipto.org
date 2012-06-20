@@ -3,10 +3,11 @@ date: '2011-11-23 16:53:11'
 layout: post
 slug: vmware-player-4-0-1-announced
 status: publish
+comments: true
 title: VMware Player 4.0.1 announced
 wordpress_id: '230'
 categories:
-- VMware
+- vmware
 tags:
 - vmware
 ---

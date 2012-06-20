@@ -3,10 +3,11 @@ date: '2008-06-22 18:12:10'
 layout: post
 slug: gomorra
 status: publish
+comments: true
 title: Gomorra
 wordpress_id: '67'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

@@ -3,10 +3,11 @@ date: '2010-02-18 12:30:43'
 layout: post
 slug: how-to-install-gosa-on-rhelcentos-5
 status: publish
+comments: true
 title: How to install GOsa on RHEL or CentOS 5
 wordpress_id: '210'
 categories:
-- Linux
+- linux
 tags:
 - CentOS
 - RHEL5

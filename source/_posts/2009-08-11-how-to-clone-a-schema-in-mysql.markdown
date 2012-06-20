@@ -3,10 +3,11 @@ date: '2009-08-11 15:10:09'
 layout: post
 slug: how-to-clone-a-schema-in-mysql
 status: publish
+comments: true
 title: How to clone a schema in MySQL
 wordpress_id: '192'
 categories:
-- Linux
+- linux
 tags:
 - RHEL5
 - Tutorial

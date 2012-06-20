@@ -3,10 +3,11 @@ date: '2008-07-25 13:56:18'
 layout: post
 slug: how-to-install-oracle-client-10g-on-red-hat-enterprise-linux-5
 status: publish
+comments: true
 title: How to install Oracle Client 10g on Red Hat Enterprise Linux 5
 wordpress_id: '69'
 categories:
-- Linux
+- linux
 tags:
 - RHEL5
 - CentOS

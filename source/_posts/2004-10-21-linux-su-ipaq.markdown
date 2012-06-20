@@ -3,10 +3,11 @@ date: '2004-10-21 18:40:37'
 layout: post
 slug: linux-su-ipaq
 status: publish
+comments: true
 title: Linux su IPAQ
 wordpress_id: '12'
 categories:
-- Linux
+- linux
 tags:
 - IPAQ
 ---

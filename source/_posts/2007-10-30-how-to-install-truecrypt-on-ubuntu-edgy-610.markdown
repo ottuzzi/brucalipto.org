@@ -3,10 +3,11 @@ date: '2007-10-30 12:43:34'
 layout: post
 slug: how-to-install-truecrypt-on-ubuntu-edgy-610
 status: publish
+comments: true
 title: How to install Truecrypt on Ubuntu Edgy 6.10
 wordpress_id: '28'
 categories:
-- Linux
+- linux
 tags:
 - Tutorial
 ---

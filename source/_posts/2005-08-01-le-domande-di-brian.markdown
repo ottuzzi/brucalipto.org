@@ -3,10 +3,11 @@ date: '2005-08-01 12:21:30'
 layout: post
 slug: le-domande-di-brian
 status: publish
+comments: true
 title: Le domande di Brian
 wordpress_id: '24'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

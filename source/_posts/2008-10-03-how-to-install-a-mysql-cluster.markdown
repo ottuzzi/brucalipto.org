@@ -3,10 +3,11 @@ date: '2008-10-03 14:29:15'
 layout: post
 slug: how-to-install-a-mysql-cluster
 status: publish
+comments: true
 title: 'How to install a MySQL cluster on a single UNIX/Linux server '
 wordpress_id: '99'
 categories:
-- Linux
+- linux
 tags:
 - Tutorial
 - CentOS

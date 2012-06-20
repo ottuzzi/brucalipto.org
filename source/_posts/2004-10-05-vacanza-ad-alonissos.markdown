@@ -3,10 +3,11 @@ date: '2004-10-05 18:25:01'
 layout: post
 slug: vacanza-ad-alonissos
 status: publish
+comments: true
 title: Vacanza ad Alonissos
 wordpress_id: '9'
 categories:
-- Unclassified
+- unclassified
 tags:
 - Alonissos
 - Viaggi

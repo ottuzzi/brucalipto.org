@@ -3,10 +3,11 @@ date: '2004-04-08 14:28:45'
 layout: post
 slug: p2p-e-firme-digitali
 status: publish
+comments: true
 title: P2P e firme digitali
 wordpress_id: '6'
 categories:
-- Unclassified
+- unclassified
 tags:
 - firma digitale
 - P2P

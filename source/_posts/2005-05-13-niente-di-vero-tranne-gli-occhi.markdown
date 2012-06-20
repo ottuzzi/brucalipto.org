@@ -3,10 +3,11 @@ date: '2005-05-13 10:22:43'
 layout: post
 slug: niente-di-vero-tranne-gli-occhi
 status: publish
+comments: true
 title: Niente di vero tranne gli occhi
 wordpress_id: '22'
 categories:
-- Cultura
+- cultura
 ---
 
                         Ecco qui una veloce recensione del libro "Niente di vero tranne gli occhi" di                         Giorgio Faletti.

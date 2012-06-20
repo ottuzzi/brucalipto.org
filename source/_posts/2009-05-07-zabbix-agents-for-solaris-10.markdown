@@ -3,10 +3,11 @@ date: '2009-05-07 11:38:46'
 layout: post
 slug: zabbix-agents-for-solaris-10
 status: publish
+comments: true
 title: Zabbix agents for Solaris 10
 wordpress_id: '181'
 categories:
-- Solaris
+- solaris
 ---
 
 {% img left /images/2009/05/zabbix.png %} [ZABBIX](http://www.zabbix.com) is an enterprise-class open source distributed monitoring solution. I use it at work and I like it very much. Today I needed the Zabbix Agent for Solaris10 for Intel and, as I still use version 1.4, I downloaded the precompiled agents binaries from [Zabbix site](http://www.zabbix.com/download.php). I'm writing this post because I found a problem!

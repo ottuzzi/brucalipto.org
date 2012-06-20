@@ -3,10 +3,11 @@ date: '2008-02-21 09:11:02'
 layout: post
 slug: ubuntu-hardy-heron-alpha-5
 status: publish
+comments: true
 title: Ubuntu Hardy Heron Alpha-5
 wordpress_id: '39'
 categories:
-- Linux
+- linux
 tags:
 - Hardy Heron
 - Ubuntu

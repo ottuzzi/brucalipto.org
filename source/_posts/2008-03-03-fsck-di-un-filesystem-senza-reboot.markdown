@@ -3,10 +3,11 @@ date: '2008-03-03 10:05:54'
 layout: post
 slug: fsck-di-un-filesystem-senza-reboot
 status: publish
+comments: true
 title: fsck di un filesystem senza reboot
 wordpress_id: '62'
 categories:
-- Linux
+- linux
 tags:
 - Ubuntu
 ---

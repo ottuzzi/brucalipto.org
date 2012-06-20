@@ -3,10 +3,11 @@ date: '2005-10-11 12:38:35'
 layout: post
 slug: il-codice-da-vinci
 status: publish
+comments: true
 title: Il codice Da Vinci
 wordpress_id: '26'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

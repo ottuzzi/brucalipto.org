@@ -3,10 +3,11 @@ date: '2004-12-10 09:08:26'
 layout: post
 slug: bootchart
 status: publish
+comments: true
 title: BootChart
 wordpress_id: '17'
 categories:
-- Linux
+- linux
 ---
 
                         This is the bootchart of my own PC at work running Mandrake Linux 10.1                         Official Edition.

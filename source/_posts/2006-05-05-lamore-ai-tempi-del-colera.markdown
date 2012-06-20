@@ -3,10 +3,11 @@ date: '2006-05-05 12:40:48'
 layout: post
 slug: lamore-ai-tempi-del-colera
 status: publish
+comments: true
 title: L'amore ai tempi del colera
 wordpress_id: '27'
 categories:
-- Cultura
+- cultura
 tags:
 - Libri
 ---

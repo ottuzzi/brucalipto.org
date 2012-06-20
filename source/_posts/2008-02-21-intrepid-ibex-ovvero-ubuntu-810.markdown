@@ -3,10 +3,11 @@ date: '2008-02-21 09:35:04'
 layout: post
 slug: intrepid-ibex-ovvero-ubuntu-810
 status: publish
+comments: true
 title: Intrepid Ibex ovvero Ubuntu 8.10
 wordpress_id: '41'
 categories:
-- Linux
+- linux
 tags:
 - Intrepid Ibex
 - Ubuntu
