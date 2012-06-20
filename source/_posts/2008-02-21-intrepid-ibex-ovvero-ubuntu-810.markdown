@@ -12,7 +12,7 @@ tags:
 - Ubuntu
 ---
 
-![Logo Ubuntu](http://www.brucalipto.org/wp-content/uploads/2008/02/ubuntulogo.png)In una email del 20 Febbraio Mark Shuttleworth, il carismatico fondatore di Canonical e Ubuntu, ha annunciato il nome della futura release 8.10 attesa verso Ottobre 2008: Intrepid Ibex. Intrepid Ibex continua così la ormai instaurata tradizione dei nomi Ubuntu che iniziano con due lettere identiche e che "scalano nell'alfabeto" di release in release:
+![Logo Ubuntu](/images/2008/02/ubuntulogo.png)In una email del 20 Febbraio Mark Shuttleworth, il carismatico fondatore di Canonical e Ubuntu, ha annunciato il nome della futura release 8.10 attesa verso Ottobre 2008: Intrepid Ibex. Intrepid Ibex continua così la ormai instaurata tradizione dei nomi Ubuntu che iniziano con due lettere identiche e che "scalano nell'alfabeto" di release in release:
 
 
 
@@ -49,4 +49,4 @@ Nonostante questa magnifica simmetria nei nomi a questa regola non rispondono pe
 
 La mail originale di Mark Shuttleworth con il nuovo nome e gli intenti delle release 8.10 Intrepid Ibex li potete trovare sulla [mailing list ubuntu-devel](https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html).
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

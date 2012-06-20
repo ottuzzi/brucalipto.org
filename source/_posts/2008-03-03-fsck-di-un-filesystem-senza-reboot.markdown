@@ -11,7 +11,7 @@ tags:
 - Ubuntu
 ---
 
-![Linux Penguin](http://www.brucalipto.org/wp-content/uploads/2008/03/linuxpenguin.gif)Stamattina, nella mia casella di posta, ho trovato un messaggio che diceva che il mio server di monitoraggio basato su Zabbix e installato su una Ubuntu 7.04 aveva tirato le cuoia stanotte alle 02:00: il messaggio riportava una laconico "ZABBIX database is down."!
+![Linux Penguin](/images/2008/03/linuxpenguin.gif)Stamattina, nella mia casella di posta, ho trovato un messaggio che diceva che il mio server di monitoraggio basato su Zabbix e installato su una Ubuntu 7.04 aveva tirato le cuoia stanotte alle 02:00: il messaggio riportava una laconico "ZABBIX database is down."!
 
 Ovviamente il primo controllo è stato fatto sul DB (MySQL) e non ho trovato alcun messaggio d'errore... il problema è che in realtà il file /var/log/syslog era fermo da parecchie ore. Spinto da una irrazionale speranza ho provato un
 
@@ -44,4 +44,4 @@ devpts on /dev/pts type devpts (rw,gid=5,mode=620)
 
 Per fortuna dopo questa cura il DB è risalito correttamente e ho addirittura recuperato i miei backup!
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

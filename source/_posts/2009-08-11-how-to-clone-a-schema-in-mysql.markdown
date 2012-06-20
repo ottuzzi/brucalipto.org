@@ -12,7 +12,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2008/10/logo_mysql_sun.gif MySQL logo %} Today I needed to clone a schema in MySQL: simply I upgraded my monitoring software [Zabbix](http://www.zabbix.com/) and thus I needed to "upgrade" also the DB schema where Zabbix saves data. As this is a destructive operation I wanted to have the zabbix schema cloned. But how do you clone a schema in MySQL?
+{% img left /images/2008/10/logo_mysql_sun.gif MySQL logo %} Today I needed to clone a schema in MySQL: simply I upgraded my monitoring software [Zabbix](http://www.zabbix.com/) and thus I needed to "upgrade" also the DB schema where Zabbix saves data. As this is a destructive operation I wanted to have the zabbix schema cloned. But how do you clone a schema in MySQL?
 
 The first thing to do is to create the new schema (or database in MySQL world) and grant all privileges to a user (even an existing one):
 

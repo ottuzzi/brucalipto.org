@@ -13,7 +13,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2008/03/redhat.jpg RedHat Logo%} Yesterday I finished the installation of a new Red Hat Enterprise Linux 5 (RHEL5) and I needed to install the Data Protector Disk Agent to backup its files. I have a Windows 2003 cell manager and a HP-UX install server that should help with the installation of the Data Protector software on UNIX/Linux/Solaris hosts... I'm quite a newbye on the topic but I was unable to install the disk agent using the HP-UX install server so here you will find instructions for the "always working" manual installation.
+{% img left /images/2008/03/redhat.jpg RedHat Logo%} Yesterday I finished the installation of a new Red Hat Enterprise Linux 5 (RHEL5) and I needed to install the Data Protector Disk Agent to backup its files. I have a Windows 2003 cell manager and a HP-UX install server that should help with the installation of the Data Protector software on UNIX/Linux/Solaris hosts... I'm quite a newbye on the topic but I was unable to install the disk agent using the HP-UX install server so here you will find instructions for the "always working" manual installation.
 
 The first thing is to get the HP-UX PA-RISC install server CDs from HP website: if you do not have the original CDs you can get them as trial from [here](http://h20293.www2.hp.com/portal/swdepot/displayProductInfo.do?productNumber=DP60SWD1).
 

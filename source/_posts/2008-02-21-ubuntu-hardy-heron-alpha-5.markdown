@@ -12,7 +12,7 @@ tags:
 - Ubuntu
 ---
 
-![Logo Ubuntu](http://www.brucalipto.org/wp-content/uploads/2008/02/ubuntulogo.png)Oggi è stata annunciata la quinta versione di test di quella che diventerà in Aprile la prossima attesissima Ubuntu LTS (Long Time Support). Secondo la [roadmap](https://wiki.ubuntu.com/HardyReleaseSchedule) presente sul wiki di Ubuntu  la versione definitiva di Ubuntu 8.04  LTS sarà rilasciata il  24 Aprile. 
+![Logo Ubuntu](/images/2008/02/ubuntulogo.png)Oggi è stata annunciata la quinta versione di test di quella che diventerà in Aprile la prossima attesissima Ubuntu LTS (Long Time Support). Secondo la [roadmap](https://wiki.ubuntu.com/HardyReleaseSchedule) presente sul wiki di Ubuntu  la versione definitiva di Ubuntu 8.04  LTS sarà rilasciata il  24 Aprile. 
 
 Sul [wiki di Ubuntu](https://wiki.ubuntu.com/HardyHeron/Alpha5) sono state rilasciate le release notes di questa versione insieme ad alcuni screenshot dei nuovi applicativi che appariranno nella release. Le immagini ISO di test sono scaricabili ai seguenti link:
 
@@ -42,4 +42,4 @@ Sul [wiki di Ubuntu](https://wiki.ubuntu.com/HardyHeron/Alpha5) sono state rilas
 
 Visto che si tratta ancora di una versione ALPHA, e quindi non adatta al suo utilizzo in produzione, è caldamente consigliato leggere le note presenti sul [wiki](https://wiki.ubuntu.com/HardyHeron/Alpha5).
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

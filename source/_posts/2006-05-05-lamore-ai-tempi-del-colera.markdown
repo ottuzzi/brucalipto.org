@@ -28,4 +28,4 @@ Per concludere, se vi piace leggere, non posso che consigliarvi questo          
 ### Voto: 7/10
 
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

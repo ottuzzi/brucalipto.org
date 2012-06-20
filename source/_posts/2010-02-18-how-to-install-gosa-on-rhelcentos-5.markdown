@@ -13,7 +13,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2010/02/gosa-logo2.png GOsa logo %} As you can read on [GOsa website](https://oss.gonicus.de/labs/gosa/): "GOsa² provides a powerful GPL'ed framework for managing accounts and systems in LDAP databases. Using GOsa² allows system administrators to easily manage users and groups...". The installation on Red Hat Enterprise Linux/CentOS is a bit tricky and here you will find how to install it.
+{% img left /images/2010/02/gosa-logo2.png GOsa logo %} As you can read on [GOsa website](https://oss.gonicus.de/labs/gosa/): "GOsa² provides a powerful GPL'ed framework for managing accounts and systems in LDAP databases. Using GOsa² allows system administrators to easily manage users and groups...". The installation on Red Hat Enterprise Linux/CentOS is a bit tricky and here you will find how to install it.
 
 First you need to set SELinux in permissive mode (if you have enabled it) and configure the firewall to let other systems to connect to port 80/443 (HTTP and HTTPs) and 389 (LDAP server port) using the commandline tool
 
@@ -21,9 +21,9 @@ First you need to set SELinux in permissive mode (if you have enabled it) and co
 $ system-config-securitylevel-tui
 {% endcodeblock %}
 
-{% img http://www.brucalipto.org/wp-content/uploads/2010/02/opaplnx44_security_1.png %}
+{% img /images/2010/02/opaplnx44_security_1.png %}
 
-{% img http://www.brucalipto.org/wp-content/uploads/2010/02/opaplnx44_security_2.png %}
+{% img /images/2010/02/opaplnx44_security_2.png %}
 
 Now we need to get some more RPM repos to work:
 

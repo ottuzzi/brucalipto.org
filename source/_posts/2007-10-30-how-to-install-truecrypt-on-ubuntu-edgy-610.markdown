@@ -100,4 +100,4 @@ OK... hopefully everything should have worked and know you have the latest Truec
 
 Let me know if you encountered a problem... I'll try to help you. Please leave a note even if you find this tutorial vaguely useful and help me to improve it.
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

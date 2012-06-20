@@ -12,7 +12,7 @@ tags:
 - Ubuntu
 ---
 
-![Logo Ubuntu](http://www.brucalipto.org/wp-content/uploads/2008/02/ubuntulogo.png)Yesterday I finished the installation of a new Ubuntu Linux 7.04 Feisty Fawn and I needed to install the Data Protector Disk Agent to backup its files. I have a Windows 2003 cell manager and a HP-UX install server that should help with the installation of the Data Protector software on UNIX/Linux/Solaris hosts... I'm quite a newbye on the topic but I was unable to install the disk agent using the HP-UX install server so here you will find instructions for the "always working" manual installation.
+![Logo Ubuntu](/images/2008/02/ubuntulogo.png)Yesterday I finished the installation of a new Ubuntu Linux 7.04 Feisty Fawn and I needed to install the Data Protector Disk Agent to backup its files. I have a Windows 2003 cell manager and a HP-UX install server that should help with the installation of the Data Protector software on UNIX/Linux/Solaris hosts... I'm quite a newbye on the topic but I was unable to install the disk agent using the HP-UX install server so here you will find instructions for the "always working" manual installation.
 
 The  first thing is to get the HP-UX PA-RISC install server CDs from HP website:if you do not have the original CDs you can get them as trial from [here](http://h20293.www2.hp.com/portal/swdepot/displayProductInfo.do?productNumber=DP60SWD1).
 
@@ -60,4 +60,4 @@ That's all... if you encounter any problem leave a comment here... I'll try to h
 
 Leave a comment even if you have a smarter method... I am very glad to learn.
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

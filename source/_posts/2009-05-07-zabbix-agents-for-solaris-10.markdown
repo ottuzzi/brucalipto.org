@@ -9,7 +9,7 @@ categories:
 - Solaris
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2009/05/zabbix.png %} [ZABBIX](http://www.zabbix.com) is an enterprise-class open source distributed monitoring solution. I use it at work and I like it very much. Today I needed the Zabbix Agent for Solaris10 for Intel and, as I still use version 1.4, I downloaded the precompiled agents binaries from [Zabbix site](http://www.zabbix.com/download.php). I'm writing this post because I found a problem!
+{% img left /images/2009/05/zabbix.png %} [ZABBIX](http://www.zabbix.com) is an enterprise-class open source distributed monitoring solution. I use it at work and I like it very much. Today I needed the Zabbix Agent for Solaris10 for Intel and, as I still use version 1.4, I downloaded the precompiled agents binaries from [Zabbix site](http://www.zabbix.com/download.php). I'm writing this post because I found a problem!
 
 The precompiled binaries fails to run with the following message:
 
@@ -43,7 +43,7 @@ libgen.so.1 =>   /lib/libgen.so.1
 libresolv.so.2 (SUNW_2.3) is not bundled in Solaris10 but in Nevada (aka Solaris11): so the precompiled binaries were not built on Solaris10 but on Opensolaris. To overcome this problem I downloaded the Zabbix 1.4.6 sources and I compiled the agents with Sun Studio 12.
 
 Here are my own binaries:
-* [Zabbix 1.4.6 Agents for Solaris 10 i386 (32bit version)] (http://www.brucalipto.org/wp-content/uploads/2009/05/zabbix_agents_146solaris10i386tar.bz2)
-* [Zabbix 1.4.6 Agents for Solaris 10 x64 (64bit version)] (http://www.brucalipto.org/wp-content/uploads/2009/05/zabbix_agents_146solaris10x64tar.bz2)
+* [Zabbix 1.4.6 Agents for Solaris 10 i386 (32bit version)] (/images/2009/05/zabbix_agents_146solaris10i386tar.bz2)
+* [Zabbix 1.4.6 Agents for Solaris 10 x64 (64bit version)] (/images/2009/05/zabbix_agents_146solaris10x64tar.bz2)
 
 Use at your own risk and... enjoy!

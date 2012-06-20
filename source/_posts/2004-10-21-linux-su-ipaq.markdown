@@ -18,13 +18,13 @@ Questo articoletto serve come diario per la mia esperienza nell'installazione di
 
 
 Mi è capitato di mettere le mani su un vecchio IPAQ 3875 e ho voluto sostituire il WinCE che vi si trova di default con un kernel linux e relative applicazioni. Era un bel po' di tempo che volevo fare questo esperimento e dopo alcune indagini ho scoperto che esiste proprio una distribuzione nata per questo scopo: [Familiar](http://familiar.handhelds.org/).
-Familiar è nata nel seno di un [progetto](http://www.handhelds.org/) più ampio sponsorizzato nientemeno che dalla                         ormai defunta Compaq (acquistata dalla HP) ![IPAQ01](http://www.brucalipto.org/wp-content/uploads/2008/02/ipaq01.png)che voleva provare a portare linux sul suo palmare che all'epoca aveva ben pochi rivali: da tale progetto sono nati un bootloader, due ambienti grafici ([Opie](http://opie.handhelds.org/) e [GPE](http://gpe.handhelds.org/)) e due distribuzioni linux (la già citata Familiar e [Intimate](http://intimate.handhelds.org/)).
+Familiar è nata nel seno di un [progetto](http://www.handhelds.org/) più ampio sponsorizzato nientemeno che dalla                         ormai defunta Compaq (acquistata dalla HP) ![IPAQ01](/images/2008/02/ipaq01.png)che voleva provare a portare linux sul suo palmare che all'epoca aveva ben pochi rivali: da tale progetto sono nati un bootloader, due ambienti grafici ([Opie](http://opie.handhelds.org/) e [GPE](http://gpe.handhelds.org/)) e due distribuzioni linux (la già citata Familiar e [Intimate](http://intimate.handhelds.org/)).
 
 
 ## Per cominciare
 
 
-![IPAQ02](http://www.brucalipto.org/wp-content/uploads/2008/02/ipaq02.png)Per cominciare serve innanzitutto un palmare un po' vecchiotto (Familiar è "certificata" solo per alcuni IPAQ) che si è disposti a rischiare (in caso di problemi nell'installazione del bootloader ci si troverebbe con un "brick") un po' di pazienza e, per seguire meglio questi appunti, una macchina linux (io ho una Mandrake 10.0 CE).
+![IPAQ02](/images/2008/02/ipaq02.png)Per cominciare serve innanzitutto un palmare un po' vecchiotto (Familiar è "certificata" solo per alcuni IPAQ) che si è disposti a rischiare (in caso di problemi nell'installazione del bootloader ci si troverebbe con un "brick") un po' di pazienza e, per seguire meglio questi appunti, una macchina linux (io ho una Mandrake 10.0 CE).
 Recuperiamo tutto l'occorrente:
 
 
@@ -41,7 +41,7 @@ Recuperiamo tutto l'occorrente:
 ## Installazione di SynCE
 
 
-![IPAQ03](http://www.brucalipto.org/wp-content/uploads/2008/02/ipaq03.png)Come si può facilmente immaginare SynCE è la controparte linux di ActiveSync.
+![IPAQ03](/images/2008/02/ipaq03.png)Come si può facilmente immaginare SynCE è la controparte linux di ActiveSync.
 Come tutti i programmi UNIX è diviso in due parti: una parte core, e una con un frontend grafico per KDE e un frontend grafico per GNOME. A noi interessa per i nostri scopi solo la parte core e per far questo basta seguire fino al punto 7 le istruzioni che potete trovare [qui](http://synce.sourceforge.net/synce/tarballs.php). Una volta installato il tutto basta seguire [queste istruzioni](http://synce.sourceforge.net/synce/start.php) per vedere che il nostro IPAQ si connetta al PC.
 
 
@@ -55,7 +55,7 @@ Quando il bootloader sarà stato installato secondo le procedure sopra descritte
 ## Come far dialogare Familiar con il PC
 
 
-![IPAQ04](http://www.brucalipto.org/wp-content/uploads/2008/02/ipaq04.png)Finalmente il nostro IPAQ è diventato un palmare Linux e ora vogliamo collegarci con lui per poter scambiare documenti etc. etc.
+![IPAQ04](/images/2008/02/ipaq04.png)Finalmente il nostro IPAQ è diventato un palmare Linux e ora vogliamo collegarci con lui per poter scambiare documenti etc. etc.
 La cosa più bella del nostro "nuovo" palmare è che contiene un daemon SSH con cui possiamo interagire normalmente utilizzando i comandi ssh, scp e così via.
 Ma procediamo con ordine (come utente root):
 
@@ -117,4 +117,4 @@ ping www.libero.it (PING verso www.libero.it)
 
 Ormai siamo arrivati alla conclusione di questo tutorial e si può continuare a sperimentare con il nostro IPAQ tenendo come punto di riferimento il sito istituzionale della distribuzione [Familiar](http://familiar.handhelds.org/) che abbiamo appena installato.
 
-[![EmailOttuzziGoogle](http://www.brucalipto.org/wp-content/uploads/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)
+[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

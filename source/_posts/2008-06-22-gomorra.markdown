@@ -11,7 +11,7 @@ tags:
 - Libri
 ---
 
-[![](http://www.brucalipto.org/wp-content/uploads/2008/06/gomorra-150x150.jpg)](http://www.brucalipto.org/wp-content/uploads/2008/06/gomorra.jpg)Gomorra è il primo libro di Roberto Saviano, un giornalista nato nel 1979 a Napoli che ha collaborato con Repubblica e l'Espresso.
+[![](/images/2008/06/gomorra-150x150.jpg)](/images/2008/06/gomorra.jpg)Gomorra è il primo libro di Roberto Saviano, un giornalista nato nel 1979 a Napoli che ha collaborato con Repubblica e l'Espresso.
 Per capire il libro non si può prescindere dai natali e dalla professione di Saviano: non siamo di fronte ad un romanzo, un racconto di fantasia, ma siamo di fronte alla dura e sentita cronaca della situazione attualmente in essere in Campania.
 
 Come ormai noto il libro parla della camorra ormai comunemente chiamata "il Sistema", visto che le varie "famiglie" regolano la vita e l'economia di tutta la Campania: "il Sistema" è il motore economico della Campania che non si occupa esclusivamente dei traffici illegali ma che dipana tutta la sua forza e virulenza anche nelle attività lecite. Attraverso una base di illegalità è possibile per "il Sistema" fornire servizi e attività legali in tutto il paese (e in tutto il mondo) a prezzi assolutamente concorrenziali.

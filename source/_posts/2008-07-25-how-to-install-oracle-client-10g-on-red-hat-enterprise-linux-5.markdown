@@ -13,7 +13,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2008/03/redhat.jpg RedHat Logo%} Today I needed to install the Oracle Client 10g on a Red Hat Enterprise Linux 5 32bit: all around the net you can find many useful tutorial on how to install the Oracle DB Server but I cannot find how to install only the client. As you may guess the client installation is easier than the Oracle DB Server one.
+{% img left /images/2008/03/redhat.jpg RedHat Logo%} Today I needed to install the Oracle Client 10g on a Red Hat Enterprise Linux 5 32bit: all around the net you can find many useful tutorial on how to install the Oracle DB Server but I cannot find how to install only the client. As you may guess the client installation is easier than the Oracle DB Server one.
 
 On the linux machine, as root, you have to run the following commands:
 

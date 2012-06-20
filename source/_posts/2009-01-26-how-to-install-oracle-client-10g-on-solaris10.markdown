@@ -11,7 +11,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2009/01/solaris.gif solaris logo %} Today I needed to install an Oracle Client on a new Solaris10 (x86 64bit) installation: I found a useful tutorial [here](http://ivan.kartik.sk/oracle/install_ora10gR2_solaris.html) but it helps you to install the whole database and not only the client. As you may guess the client installation is easier than the Oracle DB Server one.
+{% img left /images/2009/01/solaris.gif solaris logo %} Today I needed to install an Oracle Client on a new Solaris10 (x86 64bit) installation: I found a useful tutorial [here](http://ivan.kartik.sk/oracle/install_ora10gR2_solaris.html) but it helps you to install the whole database and not only the client. As you may guess the client installation is easier than the Oracle DB Server one.
 
 The first thing to do is to check if you have installed the prerequisites packages:
 
@@ -48,15 +48,15 @@ $ cd client/
 $ ./runInstaller
 {% endcodeblock %}
 
-{% img http://www.brucalipto.org/wp-content/uploads/2009/01/01.png %} 
+{% img /images/2009/01/01.png %} 
 
 As you can see I used /opt/oracle/oraInventory and I leaved the group oinstall as the default group.
 
-{% img http://www.brucalipto.org/wp-content/uploads/2009/01/03.png %} 
+{% img /images/2009/01/03.png %} 
 
 As ORACLE_HOME I used /opt/oracle/product/10.2.0/client_1.
 
-{% img http://www.brucalipto.org/wp-content/uploads/2009/01/04.png %} 
+{% img /images/2009/01/04.png %} 
 
 Just before the installation finishes it prompts to you to execute two more commands as root: in my own installation I run
 

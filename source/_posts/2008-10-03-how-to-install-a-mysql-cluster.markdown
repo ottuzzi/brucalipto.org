@@ -12,14 +12,14 @@ tags:
 - CentOS
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2008/10/logo_mysql_sun.gif MySQL logo %}In this tutorial I will show you how to install a MySQL cluster on a single node: obviously you will not gain any hardware redundancy with this setup but it is useful if you need to create a test installation as it was for me. You can find many tutorials about this topic but they are quite old and MySQL Cluster changed a lot in last years.
+{% img left /images/2008/10/logo_mysql_sun.gif MySQL logo %}In this tutorial I will show you how to install a MySQL cluster on a single node: obviously you will not gain any hardware redundancy with this setup but it is useful if you need to create a test installation as it was for me. You can find many tutorials about this topic but they are quite old and MySQL Cluster changed a lot in last years.
 
 **What is a MySQL cluster?**
 
 Let's start explaining the architecture of a MySQL cluster with an image taken from [dev.mysql.com](http://dev.mysql.com/doc/refman/5.1/en/mysql-cluster-overview.html):
 
 
-[![MySQL cluster architecture](http://www.brucalipto.org/wp-content/uploads/2008/10/cluster-components-1.png)](http://www.brucalipto.org/wp-content/uploads/2008/10/cluster-components-1.png)
+[![MySQL cluster architecture](/images/2008/10/cluster-components-1.png)](/images/2008/10/cluster-components-1.png)
 
 
 

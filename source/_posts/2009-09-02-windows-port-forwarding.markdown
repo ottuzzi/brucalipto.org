@@ -11,7 +11,7 @@ tags:
 - Tutorial
 ---
 
-{% img left http://www.brucalipto.org/wp-content/uploads/2009/09/Windows_XP_Logo_small.jpg Windows XP Logo %} In Linux world port forwarding is a common feature: if you need to forward traffic from port XX to port YY you simply use the integrated Linux firewall called iptables. In Microsoft Windows the integrated firewall is not so sophisticated as the Linux one and I needed to found a solution. A friend of mine was asked about this question and answered: "You cannot find anything working... if you find something let me know!".
+{% img left /images/2009/09/Windows_XP_Logo_small.jpg Windows XP Logo %} In Linux world port forwarding is a common feature: if you need to forward traffic from port XX to port YY you simply use the integrated Linux firewall called iptables. In Microsoft Windows the integrated firewall is not so sophisticated as the Linux one and I needed to found a solution. A friend of mine was asked about this question and answered: "You cannot find anything working... if you find something let me know!".
 
 The smartest solution I found was to use [stunnel](http://www.stunnel.org/): maybe an overkill software for this simple task but it is
 1. well known and opensource;
@@ -47,7 +47,7 @@ Looking at the stunnel.conf file provided you can see the trick: stunnel accept 
 
 Last but not least is to register stunnel as service: in Windows this is as easy as 1, 2, 3
 
-{% img http://www.brucalipto.org/wp-content/uploads/2009/09/stunnel_as_service.png Stunnel as a service %}
+{% img /images/2009/09/stunnel_as_service.png Stunnel as a service %}
 
 Please remember also to start the service ;)
 
