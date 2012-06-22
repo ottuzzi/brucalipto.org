@@ -81,42 +81,14 @@ Passiamo ora ad elencare alcuni punti che possono aiutare a scegliere quale dist
 
 ## Distribuzioni classiche:
 
-
-
-
-
-	
-  * poca esperienza del mondo Linux;
-
-	
-  * fretta di avere un sistema funzionante;
-
-	
-  * provare Linux;
-
-	
-  * un connessione ad Internet lenta.
-
-
-
+* poca esperienza del mondo Linux;
+* fretta di avere un sistema funzionante;
+* provare Linux;
+* un connessione ad Internet lenta.
 
 ## Distribuzioni Source-based:
 
-
-
-
-
-	
-  * sistemista esperto;
-
-	
-  * voglia di avere un sistema sempre aggiornato ed ottimizzato;
-
-	
-  * connessione ad Internet a banda larga;
-
-	
-  * voglia di essere sempre "al limite".
-
-
-[![Ottuzzi Email](http://localhost/wordpress/wp-content/uploads/2008/02/ottuzziemail.png)](mailto:ottuzzi@gmail.com)
+* sistemista esperto;
+* voglia di avere un sistema sempre aggiornato ed ottimizzato;
+* connessione ad Internet a banda larga;
+* voglia di essere sempre "al limite".

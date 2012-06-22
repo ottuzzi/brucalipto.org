@@ -43,8 +43,9 @@ libgen.so.1 =>   /lib/libgen.so.1
 
 libresolv.so.2 (SUNW_2.3) is not bundled in Solaris10 but in Nevada (aka Solaris11): so the precompiled binaries were not built on Solaris10 but on Opensolaris. To overcome this problem I downloaded the Zabbix 1.4.6 sources and I compiled the agents with Sun Studio 12.
 
-Here are my own binaries:
-* [Zabbix 1.4.6 Agents for Solaris 10 i386 (32bit version)] (/images/2009/05/zabbix_agents_146solaris10i386tar.bz2)
-* [Zabbix 1.4.6 Agents for Solaris 10 x64 (64bit version)] (/images/2009/05/zabbix_agents_146solaris10x64tar.bz2)
+Here are my own binaries: 
+
+* [Zabbix 1.4.6 Agents for Solaris 10 i386 (32bit version)](/images/2009/05/zabbix_agents_146solaris10i386tar.bz2)
+* [Zabbix 1.4.6 Agents for Solaris 10 x64 (64bit version)](/images/2009/05/zabbix_agents_146solaris10x64tar.bz2)
 
 Use at your own risk and... enjoy!
