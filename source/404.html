@@ -3,11 +3,31 @@ layout: page
 title: Error 404
 footer: false
 ---
-<h2>Error 404</h2>
-<p>I apologise for the broken link. I tried hard to adapt old ULRs to the new URL schema but it looks like we were unlucky.</p>
-<p>Here's some links that may help you get to the general area where you may find what you want:</p>
+<p>
+	I apologise for the broken link. I tried hard to adapt old URLs to the new URL schema but it looks like I was unlucky.<br/>
+	Here are some links that may help you get to the general area where you may find what you want:
+</p>
+<div id="blog-archives">
+	<article>
+		<h1><a href="/">Home</a></h1>
+	</article>
+	<article>
+		<h1><a href="/contact-me/">Contact form</a></h1>
+	</article>
+	<article>
+		<h1><a href="/tag/tutorial/">Some tutorials</a></h1>
+	</article>
+	<article>
+		<h1><a href="/blog/categories/linux/">Some articles about linux</a></h1>
+	</article>
+	<article>
+		<h1><a href="/blog/categories/java/">Some articles about java</a></h1>
+	</article>
+	
+</div>
+<p>Or latest posts:</p>
 <div id="blog-archives" class="missing">
-{% for post in site.posts limit: 10 %}
+{% for post in site.posts limit: 5 %}
 <article>
   {% include archive_post.html %}
 </article>
