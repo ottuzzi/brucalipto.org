@@ -1,5 +1,6 @@
 ---
 date: '2011-11-23 17:04:20'
+updated: '2012-06-24 12:04:20'
 layout: post
 slug: vmware-tools-vmware-player-4-0-1
 status: publish
