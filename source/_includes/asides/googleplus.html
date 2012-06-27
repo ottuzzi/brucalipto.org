@@ -1,11 +1,6 @@
 {% if site.googleplus_user %}
 <section class="googleplus{% if site.googleplus_hidden %} googleplus-hidden{% endif %}">
-  <h1>
-    <a href="https://plus.google.com/{{ site.googleplus_user }}?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
+  <div class="g-plus" data-href="https://plus.google.com/{{ site.googleplus_user }}?rel=author" data-width="200" data-height="69"></div>
 </section>
 {% endif %}
 
