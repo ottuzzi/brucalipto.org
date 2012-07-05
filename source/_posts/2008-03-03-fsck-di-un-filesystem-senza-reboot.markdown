@@ -41,5 +41,6 @@ $ mount -o remount,ro / #rimonta in read-only il filesystem di /
 $ e2fsck -f -v /dev/sda1 #controlla il filesystem anche se sembra corretto (-f) e sii prolisso nei log (-v)
 $ mount -o remount,rw / #rimonta in read-write il filesystem di / una volta terminato il controllo
 $ init 2 #ritorna al runlevel precedente e alla piena operatività del sistema
+{% endcodeblock %}
 
 Per fortuna dopo questa cura il DB è risalito correttamente e ho addirittura recuperato i miei backup!
