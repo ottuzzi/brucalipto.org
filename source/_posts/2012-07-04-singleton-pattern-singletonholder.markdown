@@ -13,7 +13,7 @@ categories:
 tags:
 - tips&amp;tricks
 ---
-Writing a singleton is not that hard but writing it the right way may not be all that trivial. I wrote hundreds 
+{% img left /images/2012/07/java_logo.gif Java logo %}Writing a singleton is not that hard but writing it the right way may not be all that trivial. I wrote hundreds 
 singletons in my developer life and yesterday I found, thanks to a 
 [Wikipedia post](http://en.wikipedia.org/wiki/Singleton_pattern#The_solution_of_Bill_Pugh "Singleton Pattern: the solution of Bill Pugh"),
 what I think is the perfect solution. The solution is not mine but I report it here for future reference:
