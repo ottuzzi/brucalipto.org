@@ -13,7 +13,6 @@ tags:
 ---
 Ecco qui una veloce recensione del libro "Le domande di Brian" di David Nicholls.
 
-
 ##Titolo: Le domande di Brian
 Autore: David Nicholls
 

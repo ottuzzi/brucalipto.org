@@ -15,8 +15,8 @@ tags:
 [Log4j](http://logging.apache.org/log4j/index.html) is a powerful Java API for logging and its worst defect is documentation: yes the javadoc are available but if you are looking for a simple setup or for a first time setup things become difficult. Here is the "tutorial" I wish I had at the time I started using log4j.
 
 ## What is log4j?
-
 As you can read in [log4j homepage](http://logging.apache.org/log4j/docs/):
+
 {% blockquote %}
 With log4j it is possible to enable logging at runtime without modifying the application binary. The log4j package is designed so that these statements can remain in shipped code without incurring a heavy performance cost. Logging behavior can be controlled by editing a configuration file, without touching the application binary.
 {% endblockquote %}

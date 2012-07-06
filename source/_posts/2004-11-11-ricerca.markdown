@@ -10,22 +10,15 @@ categories:
 - unclassified
 ---
 
-                        Un giorno mi stavo facendo la seguente domanda: "Che differenza c'è tra normale                         ricerca scientifica e la ricerca nel mondo dell'informatica? Come mai le scoperte                         scientifiche vengono pubblicate mentre quelle informatiche vengono brevettate?".
-
+Un giorno mi stavo facendo la seguente domanda: "Che differenza c'è tra normale ricerca scientifica e la ricerca nel mondo dell'informatica? Come mai le scoperte scientifiche vengono pubblicate mentre quelle informatiche vengono brevettate?".
 
 ## Ricerca scientifica
-
-
-La ricerca scientifica viene quasi sempre fatta con denaro pubblico e fondamentalmente                         senza scopo di lucro: quello che interessa ad un ricercatore (almeno in Italia) è                         di apparire su riviste prestigiose con il maggior numero di articoli. Più si                         è fatta una grande scoperta o un grande lavoro di ricerca più si ricerca                         la visibilità che offrono le importanti riviste scientifiche.
+La ricerca scientifica viene quasi sempre fatta con denaro pubblico e fondamentalmente senza scopo di lucro: quello che interessa ad un ricercatore (almeno in Italia) è di apparire su riviste prestigiose con il maggior numero di articoli. Più si è fatta una grande scoperta o un grande lavoro di ricerca più si ricerca la visibilità che offrono le importanti riviste scientifiche.
 
 
 ## Ricerca nel mondo dell'informatica
-
-
-Al contrario della ricerca scientifica, che vive su fondi statali, la ricerca informatica                         è spinta dagli interessi dei grandi gruppi industriali: si parla spesso di "pericolo                         per il web" quando una grande società (sia essa IBM quanto MS) cerca di brevettare                         alcuni dei mattoni fondamentali di internet cercando di forzarne così l'evoluzione verso                         una certa tecnologia piuttosto che verso un'altra.
+Al contrario della ricerca scientifica, che vive su fondi statali, la ricerca informatica è spinta dagli interessi dei grandi gruppi industriali: si parla spesso di "pericolo per il web" quando una grande società (sia essa IBM quanto MS) cerca di brevettare alcuni dei mattoni fondamentali di internet cercando di forzarne così l'evoluzione verso una certa tecnologia piuttosto che verso un'altra.
 
 
 ## La grande differenza
-
-
-Alla fine però Stefania Guariglia (che è mia moglie e che con questa citazione                         apparirà anche lei su Google) mi ha fatto notare la grande differenza tra i due tipi                         di ricerca: una è mossa dalla passione per la ricerca pura dei singoli che non hanno                         grandi aspirazioni di ricchezza monetaria mentre la seconda ha come scopo primario il guadagno                         economico e la vittoria in questa nuova e grande corsa all'oro rappresentata da internet.
+Alla fine però Stefania Guariglia (che è mia moglie e che con questa citazione apparirà anche lei su Google) mi ha fatto notare la grande differenza tra i due tipi di ricerca: una è mossa dalla passione per la ricerca pura dei singoli che non hanno grandi aspirazioni di ricchezza monetaria mentre la seconda ha come scopo primario il guadagno economico e la vittoria in questa nuova e grande corsa all'oro rappresentata da internet.

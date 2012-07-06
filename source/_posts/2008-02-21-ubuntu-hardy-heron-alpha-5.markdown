@@ -43,4 +43,3 @@ Sul [wiki di Ubuntu](https://wiki.ubuntu.com/HardyHeron/Alpha5) sono state rilas
 
 Visto che si tratta ancora di una versione ALPHA, e quindi non adatta al suo utilizzo in produzione, è caldamente consigliato leggere le note presenti sul [wiki](https://wiki.ubuntu.com/HardyHeron/Alpha5).
 
-[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

@@ -50,4 +50,3 @@ Nonostante questa magnifica simmetria nei nomi a questa regola non rispondono pe
 
 La mail originale di Mark Shuttleworth con il nuovo nome e gli intenti delle release 8.10 Intrepid Ibex li potete trovare sulla [mailing list ubuntu-devel](https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html).
 
-[![EmailOttuzziGoogle](/images/2008/02/ottuzzigoogle.png)](mailto:ottuzzi@gmail.com)

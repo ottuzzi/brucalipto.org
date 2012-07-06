@@ -10,16 +10,12 @@ categories:
 - linux
 ---
 
-                        This is the bootchart of my own PC at work running Mandrake Linux 10.1                         Official Edition.
+This is the bootchart of my own PC at work running Mandrake Linux 10.1 Official Edition.
 
 
 ## Metodology
-
-
-I followed all the directions listed in the                         [                             Mandrakelinux Development Community                         ](http://qa.mandriva.com/twiki/bin/view/Main/BootTimeOptimisation)                         and here follow the chart.
+I followed all the directions listed in the [Mandrakelinux Development Community ](http://qa.mandriva.com/twiki/bin/view/Main/BootTimeOptimisation) and here follow the chart.
 
 
 ## The chart
-
-
 ![Bootchart](http://localhost/wordpress/wp-content/uploads/2008/02/bootchart.png)

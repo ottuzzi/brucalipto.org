@@ -19,7 +19,7 @@ Questo articoletto serve come diario per la mia esperienza nell'installazione di
 
 
 Mi è capitato di mettere le mani su un vecchio IPAQ 3875 e ho voluto sostituire il WinCE che vi si trova di default con un kernel linux e relative applicazioni. Era un bel po' di tempo che volevo fare questo esperimento e dopo alcune indagini ho scoperto che esiste proprio una distribuzione nata per questo scopo: [Familiar](http://familiar.handhelds.org/).
-Familiar è nata nel seno di un [progetto](http://www.handhelds.org/) più ampio sponsorizzato nientemeno che dalla                         ormai defunta Compaq (acquistata dalla HP) ![IPAQ01](/images/2008/02/ipaq01.png)che voleva provare a portare linux sul suo palmare che all'epoca aveva ben pochi rivali: da tale progetto sono nati un bootloader, due ambienti grafici ([Opie](http://opie.handhelds.org/) e [GPE](http://gpe.handhelds.org/)) e due distribuzioni linux (la già citata Familiar e [Intimate](http://intimate.handhelds.org/)).
+Familiar è nata nel seno di un [progetto](http://www.handhelds.org/) più ampio sponsorizzato nientemeno che dalla ormai defunta Compaq (acquistata dalla HP) ![IPAQ01](/images/2008/02/ipaq01.png)che voleva provare a portare linux sul suo palmare che all'epoca aveva ben pochi rivali: da tale progetto sono nati un bootloader, due ambienti grafici ([Opie](http://opie.handhelds.org/) e [GPE](http://gpe.handhelds.org/)) e due distribuzioni linux (la già citata Familiar e [Intimate](http://intimate.handhelds.org/)).
 
 
 ## Per cominciare
@@ -105,7 +105,7 @@ remote IP address 192.168.0.2
 
 
 	
-  * Apriamo una konsole sull'IPAQ (si, come tutti i LINUX anche sull'IPAQ abbiamo a disposizione una                             console) e proviamo questi comandi:
+  * Apriamo una konsole sull'IPAQ (si, come tutti i LINUX anche sull'IPAQ abbiamo a disposizione una     console) e proviamo questi comandi:
 ping 192.168.0.1(PING verso il proprio PC)
 ping 195.210.91.83 (PING verso l'IP di www.libero.it)
 ping www.libero.it (PING verso www.libero.it)

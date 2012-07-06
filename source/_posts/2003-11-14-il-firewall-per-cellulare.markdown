@@ -48,5 +48,3 @@ Eccovi una prima idea di implementazione:
 
 
 Credo che questo sia sufficiente per dare l'idea di cosa intendo, ora rimane solo ai grandi costruttori implementare questa idea che sicuramente sarà gradita ai più.
-
-[![Ottuzzi Email](http://localhost/wordpress/wp-content/uploads/2008/02/ottuzziemail.png)](mailto:ottuzzi@gmail.com)
