@@ -18,4 +18,4 @@ I followed all the directions listed in the [Mandrakelinux Development Community
 
 
 ## The chart
-![Bootchart](http://localhost/wordpress/wp-content/uploads/2008/02/bootchart.png)
+![Bootchart](/images/2008/02/bootchart.png)
