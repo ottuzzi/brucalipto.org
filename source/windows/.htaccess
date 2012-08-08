@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule ^$ http://www.brucalipto.org/blog/categories/windows/ [R=301]
+
+#Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+#Prevent directory listings
+Options All -Indexes
