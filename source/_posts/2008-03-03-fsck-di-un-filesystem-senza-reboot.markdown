@@ -16,17 +16,17 @@ tags:
 
 Ovviamente il primo controllo è stato fatto sul DB (MySQL) e non ho trovato alcun messaggio d'errore... il problema è che in realtà il file /var/log/syslog era fermo da parecchie ore. Spinto da una irrazionale speranza ho provato un
 
-{% codeblock lang:shell%}
-/etc/init.d/mysql restart
+{% codeblock lang:sh %}
+$ /etc/init.d/mysql restart
 {% endcodeblock %}
 
-per scoprire che era inutile... il DB non risaliva. Bene... ho i backup... ranzo tutto e rimetto su i backup: no... nemmeno questo era possibile... la directory dei backup non era più una directory e al posto dei famigliare drwxr-xr-x aveva degli spaventosi punti di domanda.
+per scoprire che era inutile... il DB non risaliva. Bene... ho i backup... ranzo tutto e rimetto su i backup: no... nemmeno questo era possibile... la directory dei backup non era più una directory e al posto dei familiari drwxr-xr-x aveva degli spaventosi punti di domanda.
 
 Riassumendo avevo il DB che non riusciva a risalire e i backup persi!
 
 A questo punto l'unica cosa da fare era provare a verificare l'integrità del file system (ext3) e ho seguito i seguenti passi:
 
-{% codeblock lang:shell%}
+{% codeblock lang:sh %}
 $ init 1 #vai in single-user-mode
 $ mount #dammi la lista dei filesystem montati
 /dev/sda1 on / type ext3 (rw,errors=remount-ro)
