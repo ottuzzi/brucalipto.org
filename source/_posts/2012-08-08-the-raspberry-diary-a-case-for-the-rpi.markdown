@@ -4,7 +4,6 @@ title: "The Raspberry Diary: a case for the RPi"
 date: 2012-08-08 11:32
 comments: true
 status: publish
-comments: true
 description: "This is my Raspberry diary: a new case for my Raspberry Pi"
 keywords: "RaspberryPi, rpi, linux, diary, raspbian, case, Raspebrry Pi"
 categories:
