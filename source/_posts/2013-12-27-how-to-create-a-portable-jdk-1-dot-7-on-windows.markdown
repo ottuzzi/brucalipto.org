@@ -7,7 +7,6 @@ published: false
 description: "A simple way to create a portable version of Oracle Java 1.7"
 keywords: "Java, Oracle, Oracle Java, Portable Java, JDK"
 categories:
-- windows
 - java
 tags:
 - Tutorial

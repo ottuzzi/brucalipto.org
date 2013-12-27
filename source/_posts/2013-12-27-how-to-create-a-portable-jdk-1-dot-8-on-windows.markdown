@@ -7,7 +7,6 @@ status: publish
 description: "A simple way to create a portable version of Oracle Java 1.8"
 keywords: "Java, Oracle, Oracle Java, Portable Java, JDK"
 categories:
-- windows
 - java
 tags:
 - Tutorial
